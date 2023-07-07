@@ -6,6 +6,12 @@ header {
 	width: 1920px;
     height: 70px;
     background-color: black;
+    
+}
+li{
+    float: left;
+    list-style-type: none;
+    padding: 20px;
 }
 #genesis_logo{
     margin: 22px 139px;

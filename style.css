@@ -8,13 +8,21 @@ header {
     background-color: black;
     
 }
+ul{
+    float: left;
+}
 li{
     float: left;
     list-style-type: none;
-    padding: 20px;
+    padding: 25px;
+    color: gray;
+}
+li:hover{
+    color: white;
 }
 #genesis_logo{
-    margin: 22px 139px;
+    float: left;
+    margin: 22px 50px;
     width: 129px;
     height: 25px;
 }

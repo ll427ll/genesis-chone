@@ -3,8 +3,8 @@
     padding: 0;
 }
 header {
-	width: 1920px;
-    height: 70px;
+	width: 1517px;
+    height: 72px;
     background-color: black;
     
 }
@@ -25,4 +25,19 @@ li:hover{
     margin: 22px 50px;
     width: 129px;
     height: 25px;
+}
+#page{
+    float: right;
+    color: gray;
+    list-style-type: none;
+}
+#page:hover{
+    color: white;
+}
+i{
+    left: 50px;
+}
+img{
+    width: 1517px;
+    height: 670px;
 }
